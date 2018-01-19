@@ -1,0 +1,36 @@
+{
+  "video-games": [
+    {
+      "name": "Fortnite", 
+      "Metacritic":"72%",
+      "Gigabytes": 16.82, 
+      "platform": ["Ps4","Xbox","pc"],
+      "image":"https://humblebundle.imgix.net/misc/files/hashed/008d90b3ba14e3c92c551530b4b0762acc18bbfc.jpg?auto=format&fit=crop&h=353&w=616&ixlib=python-0.2.0&s=eea2da95caeb8a1ab30cb5ae625452c6" 
+    },
+    {
+      "name": "PubG", 
+      "Metacritic":"85%",
+      "Gigabytes": 30.87, 
+      "platform": ["Ps4","Xbox","pc"],
+      "image":"http://www.mycdkeys.co.uk/media/catalog/product/1/9/1995.jpg" 
+    },
+    {
+      "name": "Team Fortress 2", 
+      "Metacritic":"92%",
+      "Gigabytes": 30.87, 
+      "platform": ["Ps4","Xbox","pc"],
+      "image":"http://www.mobygames.com/images/covers/l/135079-team-fortress-2-windows-front-cover.jpg" 
+    },
+    {
+      "name": "Cs:Go", 
+      "Metacritic":"82%",
+      "Gigabytes": 5.42, 
+      "platform": ["Ps4","Xbox","pc"],
+      "image":"https://vignette.wikia.nocookie.net/cswikia/images/1/1e/Csgo_steam_store_header_latest.jpg/revision/latest?cb=20170630034202" 
+    }
+  
+  
+  
+  ]
+
+}
