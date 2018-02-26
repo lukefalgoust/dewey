@@ -4,25 +4,25 @@
       "Name": "Surgeon", 
       "Salary":"$230,540",
       "Employed": 1047, 
-      "Education":"Doctor in Medicine",
-    },
-    {
+      "Education":"Doctor in Medicine"
+    }
+    
       "Name": "Anesthesiologist", 
       "Salary":"$236,830",
       "Employed": 504, 
-      "Education": ["Master of Science in Medicine", "Master of Science in Anesthesiology", "Doctor of Medicine"],
-    },
-    {
+      "Education": ["Master of Science in Medicine", "Master of Science in Anesthesiology", "Doctor of Medicine"]
+    }
+    
       "Name": "Psychiatrist", 
       "Salary":"$215,372",
       "Employed": 408, 
-      "Educiation": ["Doctor of Psychiatry", "Doctor of Psychology"],
+      "Educiation": ["Doctor of Psychiatry", "Doctor of Psychology"]
     },
     {
       "Name": "Dentist", 
       "Salary":"$147,910",
       "Employed": 464, 
-      "Education": "Doctor of Dentistry",
+      "Education": "Doctor of Dentistry"
     }
   
   
