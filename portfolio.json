@@ -5,14 +5,14 @@
       "Salary":"$230,540",
       "Employed": 1047, 
       "Education":"Doctor in Medicine"
-    }
-    
+    },
+    {
       "Name": "Anesthesiologist", 
       "Salary":"$236,830",
       "Employed": 504, 
       "Education": ["Master of Science in Medicine", "Master of Science in Anesthesiology", "Doctor of Medicine"]
-    }
-    
+    },
+    {
       "Name": "Psychiatrist", 
       "Salary":"$215,372",
       "Employed": 408, 
