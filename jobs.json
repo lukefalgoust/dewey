@@ -4,7 +4,7 @@
       "Name": "Surgeon", 
       "Salary":"$230,540",
       "Employed": 1047, 
-      "Education":"Doctor in Medicine"
+      "Education":["Doctor in Medicine"]
     },
     {
       "Name": "Anesthesiologist", 
