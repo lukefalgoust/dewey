@@ -2,29 +2,28 @@
   "jobs": [
     {
       "Name": "Surgeon", 
-      "Salary":"$230,540",
-      "Employed": 1047, 
+      "Salary":"In Louisiana average around $230,540 a year.",
+      "Employed": "There are around 1047 different types of surgeons working in Louisiana as of today." 
       "Education":["Doctor in Medicine"]
     },
     {
       "Name": "Anesthesiologist", 
-      "Salary":"$236,830",
-      "Employed": 504, 
+      "Salary":"In Louisiana average around $236,830 a year",
+      "Employed": "There are around 504 anesthesiologist wokring in Louisiana as of today.", 
       "Education": ["Master of Science in Medicine", "Master of Science in Anesthesiology", "Doctor of Medicine"]
     },
     {
       "Name": "Psychiatrist", 
-      "Salary":"$215,372",
-      "Employed": 408, 
+      "Salary":"In Louisiana average around $215,372 a year",
+      "Employed": "There are around 408 psychiatrist wokring in Louisiana as of today.", 
       "Educiation": ["Doctor of Psychiatry", "Doctor of Psychology"]
     },
     {
       "Name": "Dentist", 
-      "Salary":"$147,910",
-      "Employed": 464, 
-      "Education": "Doctor of Dentistry"
+      "Salary":"In Louisiana average around $147,910 a year",
+      "Employed": "There are around 464 dentist wokring in Louisiana as of today.",
+      "Education": ["Doctor of Dentistry"]
     }
-  
   
    
   ]
